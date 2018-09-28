@@ -1,0 +1,64 @@
+C:\Users\jara\Desktop\hangman\hangman\bin\Debug\SPSSE Application.exe.config
+C:\Users\jara\Desktop\hangman\hangman\bin\Debug\SPSSE Application.exe
+C:\Users\jara\Desktop\hangman\hangman\bin\Debug\SPSSE Application.pdb
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\View\Main\MainWindow.g.cs
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\App.g.cs
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\SPSSE Application_MarkupCompile.cache
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\SPSSE Application_MarkupCompile.lref
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\App.baml
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\View\Main\MainWindow.baml
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\SPSSE Application.g.resources
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\hangman.csproj.GenerateResource.Cache
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\SPSSE Application.exe
+C:\Users\jara\Desktop\hangman\hangman\obj\Debug\SPSSE Application.pdb
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\bin\Debug\SPSSE Application.exe.config
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\SPSSE Application.exe
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\SPSSE Application.pdb
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\bin\Debug\SPSSE Application.exe
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\bin\Debug\SPSSE Application.pdb
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\View\Main\MainWindow.g.cs
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\App.g.cs
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\SPSSE Application_MarkupCompile.cache
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\SPSSE Application_MarkupCompile.lref
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\App.baml
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\View\Main\MainWindow.baml
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\SPSSE Application.g.resources
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\jaroslav.urban.PSLIB\Desktop\hangman\hangman\obj\Debug\hangman.csproj.GenerateResource.Cache
+X:\2\c#\hangman2\hangman\bin\Debug\SPSSE Application.exe.config
+X:\2\c#\hangman2\hangman\obj\Debug\SPSSE Application.exe
+X:\2\c#\hangman2\hangman\obj\Debug\SPSSE Application.pdb
+X:\2\c#\hangman2\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+X:\2\c#\hangman2\hangman\obj\Debug\View\Main\MainWindow.g.cs
+X:\2\c#\hangman2\hangman\obj\Debug\App.g.cs
+X:\2\c#\hangman2\hangman\obj\Debug\GeneratedInternalTypeHelper.g.cs
+X:\2\c#\hangman2\hangman\obj\Debug\SPSSE Application_MarkupCompile.cache
+X:\2\c#\hangman2\hangman\obj\Debug\SPSSE Application_MarkupCompile.lref
+X:\2\c#\hangman2\hangman\bin\Debug\SPSSE Application.exe
+X:\2\c#\hangman2\hangman\bin\Debug\SPSSE Application.pdb
+X:\2\c#\hangman2\hangman\obj\Debug\App.baml
+X:\2\c#\hangman2\hangman\obj\Debug\View\Main\MainWindow.baml
+X:\2\c#\hangman2\hangman\obj\Debug\SPSSE Application.g.resources
+X:\2\c#\hangman2\hangman\obj\Debug\hangman.Properties.Resources.resources
+X:\2\c#\hangman2\hangman\obj\Debug\hangman.csproj.GenerateResource.Cache
+C:\Users\jara\Desktop\hangman2\hangman\bin\Debug\SPSSE Application.exe.config
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\SPSSE Application.exe
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\SPSSE Application.pdb
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\View\Main\MainWindow.g.cs
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\App.g.cs
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\SPSSE Application_MarkupCompile.cache
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\SPSSE Application_MarkupCompile.lref
+C:\Users\jara\Desktop\hangman2\hangman\bin\Debug\SPSSE Application.exe
+C:\Users\jara\Desktop\hangman2\hangman\bin\Debug\SPSSE Application.pdb
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\App.baml
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\View\Main\MainWindow.baml
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\SPSSE Application.g.resources
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\jara\Desktop\hangman2\hangman\obj\Debug\hangman.csproj.GenerateResource.Cache

@@ -1,0 +1,35 @@
+﻿<Window x:Class="hangman.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:hangman"
+        xmlns:vm="clr-namespace:hangman.ViewModel"
+        xmlns:conv="clr-namespace:hangman.View.Converter" 
+        Title="Aplikace" 
+        Height="{Binding Source={StaticResource Settings}, Path=MainWindowHeight, Mode=TwoWay}" 
+        Width="{Binding Source={StaticResource Settings}, Path=MainWindowWidth, Mode=TwoWay}"
+        Left="{Binding Source={StaticResource Settings}, Path=MainWindowLeft, Mode=TwoWay}"
+        Top="{Binding Source={StaticResource Settings}, Path=MainWindowTop, Mode=TwoWay}">
+    <Window.Resources>
+        <conv:DoNothingConverter x:Key="testConverter" />
+        <conv:Obrazek x:Key="obrazek"></conv:Obrazek>
+    </Window.Resources>
+    <Window.DataContext>
+        <vm:MainViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Border Padding="100,30,100,30" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="1" BorderThickness="1" BorderBrush="Black" Margin="50,10,50,10" MinHeight="50" MinWidth="100">
+            <TextBlock VerticalAlignment="Stretch"  TextAlignment="Center" FontSize="20" Text="{Binding Slovo2}" x:Name="textBox" HorizontalAlignment="Stretch" Grid.Row="1"/>
+        </Border>
+        <WrapPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="2" x:Name="wrap"></WrapPanel>
+        <Image Grid.Row="0" Name="a1" Source="{Binding Obrazek, Converter={StaticResource obrazek}}"></Image>
+    </Grid>
+
+</Window>
